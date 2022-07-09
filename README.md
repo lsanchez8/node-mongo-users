@@ -22,11 +22,13 @@ PROJECT SHOULD BE RUNNING IN http://localhost:9001/api
 
 ### Users endpoints
 
-    ``GET http://localhost:9001/api/user``
-    ``GET BY ID http://localhost:9001/api/user/:id``
-    ``POST http://localhost:9001/api/user``
-    ``PUT http://localhost:9001/api/user/:id``
-    ``DELETE http://localhost:9001/api/user/:id``
+    ```
+    GET http://localhost:9001/api/user
+    GET BY ID http://localhost:9001/api/user/:id
+    POST http://localhost:9001/api/user
+    PUT http://localhost:9001/api/user/:id
+    DELETE http://localhost:9001/api/user/:id
+    ```
 
 #### Example post for a user
 
