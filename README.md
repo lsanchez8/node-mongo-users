@@ -58,11 +58,11 @@ Can copy paste the following example as raw in postman:
 
 ```
 {
-    "name": "David",
-    "lastName": "Ortiz",
-    "email": "davidortiz@mlb.com",
+    "name": "John",
+    "lastName": "Doe",
+    "email": "john@example.com",
     "gender": 1,
-    "phoneNumber": "8090001911",
+    "phoneNumber": "+521234444",
     "status": 1,
     "address": {"city": "Santo Domingo",
     "country": "Dominican Republic",
