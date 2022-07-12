@@ -64,9 +64,11 @@ Can copy paste the following example as raw in postman:
     "gender": 1,
     "phoneNumber": "+521234444",
     "status": 1,
-    "address": {"city": "Santo Domingo",
-    "country": "Dominican Republic",
-    "street": "Av. 27 de Febrero"}
+    "address": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "street": "Av. 27 de Febrero"
+    }
 }
 ```
 
